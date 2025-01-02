@@ -1,2 +1,2 @@
 # Goodbye-Void-Real
-A Test
+To test basic GitHub workflow
